@@ -1,7 +1,7 @@
 //Andrew Mealy
 //Date: 1.14.16
 //Start Time: 7:12pm
-package tester1234;
+
 import java.util.*;
 
 public class delimiter {
