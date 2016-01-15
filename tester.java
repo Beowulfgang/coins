@@ -3,7 +3,6 @@
 //Star Time: 6:03pm
 //Rescursive
 
-package tester1234;
 public class tester{
 	public static void main(String[] args){
 			int[] coins = {25,10,5,1};
